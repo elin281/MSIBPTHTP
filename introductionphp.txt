@@ -1,0 +1,62 @@
+PENGENALAN BAHASA PEMROGRAMAN PHP
+
+A. Pengertian PHP
+   PHP adalah bahasa pemrograman yang umum dipakai dalam pembuatan dan pengembangan suatu web.
+   Sebetulnya, dilansir dari PHP.net, PHP merupakan singkatan dari PHP: Hypertext Prepocessor.
+   Menurut situs tersebut, PHP adalah bahasa pemrograman yang banyak digunakan secara luas dan secara khusus sesuai untuk pengembangan web.
+   Sebelum dinamakan demikian, PHP artinya adalah Personal Home Page Tools karena dipakai membangun web pribadi.
+   Namun, perkembangan pesat membuatnya bertumbuh menjadi bahasa pemrograman web yang kuat.
+   PHP bukan lagi sekadar dipakai membangun halaman web sederhana, tetapi membuat berbagai web ternama dunia seperti WordPress dan Wikipedia.
+B. Sejarah PHP
+   Membahas apa itu PHP berarti tidak lepas dari nama Rasmus Lerdorf, sang penemu.
+   Pengembangan bahasa pemrograman script server-side ini pertama kali dilakukan tahun 1994.
+   Saat ini pengelolaannya berada di bawah naungan The PHP Group dengan alamat web resmi di www.php.net.
+   Dari nama Personal Home Page Tools, nama PHP sempat berganti menjadi FI atau Forms Interpreter.
+   Namun, sejak versi 3.0, FI tidak lagi dipakai dan digantikan dengan singkatan PHP terbaru.
+   Kini bahasa PHP yang banyak dipakai adalah versi 5.0. Versi tersebut pertama kali dirilis bulan Juni 2004.
+   Terjadi perubahan besar dalam inti interpreter PHP. Model pemrograman berorientasi pada objek juga turut ditanamkan seiring tren bahasa pemrograman terkini.
+   Hal tersebut mendorong pengaplikasian PHP pada berbagai program sistem informasi di sektor industri, kesehatan, keuangan, hingga akademik.
+   Plus, PHP bisa kamu pakai secara gratis dan tergolong open source.
+   Kemudahan dan popularitas menempatkan PHP sebagai standar keterampilan bahasa pemrograman yang harus dikuasai oleh programmer web.
+   Data dari w3techs menunjukkan hampir 79% web server dunia menggunakan PHP. 
+C. Istilah Lain yang Berkaitan dengan PHP
+   Saat hendak membangun web memakai PHP, HTML dan CSS adalah dua hal yang tidak bisa dilepaskan.
+   Semuanya saling berkaitan dan melengkapi fungsi masing-masing dalam sebuah pembuatan web.
+   Coba cek penjelasan berikut ini.
+   1. HTML
+      Singkatan dari Hyper Text Markup Language, ini merupakan bahasa standar dalam menayangkan informasi apa saja di internet.
+      Tujuan HTML awalnya justru untuk membantu para ilmuwan mengakses dokumen di kalangan mereka sendiri.
+      Bahasa pemrograman ini dibuat tahun 1991 oleh Tim Berners-Lee.
+      Kemudian seiring perkembangan teknologi, HTML pun digunakan sebagai fondasi pembuatan web.
+      Dengan HTML, kamu bisa membuat dan menyusun suatu web. Apalagi, semua web browser bisa menjalankan HTML dengan mudah.
+      Plus, dapat diintegrasikan dengan berbagai bahasa backend seperti PHP.
+      Istilah HTML yang banyak dipakai sekarang merujuk pada HTML4 yang dirilis tahun 1999. Versi terbarunya diluncurkan kembali pada 2014, yaitu HTML5.
+      Berkat update tersebut, beragam fitur canggih bisa dinikmati dalam halaman web, seperti embed video dan audio, dengan menambahkan tag saja.
+   2. CSS
+      CSS singkatan dari Cascading Style Sheet, yakni bahasa pemrograman yang dipakai dalam mengatur gaya suatu web.
+      Kumpulan kode tersebut bertujuan menata tampilan atau layout halaman web dengan warna, background, jenis huruf,
+      ukuran, dan elemen desain lainnya supaya bisa menarik pengunjung. CSS diletakkan pada dokumen atau file terpisah dalam sebuah halaman web.
+      Programmer tinggal memanggil file tersebut jika ada script yang hendak memakai suatu CSS.
+      Tanpa CSS, kamu harus menuliskan kode baris lebih banyak dan panjang.
+      Jadi, kamu bisa menyimpulkan bahwa CSS bertugas mempersingkat kode baris HTML terkait tata letak dan desain web.
+D. Fungsi PHP dalam Web Programming
+   PHP adalah bahasa pemrograman yang ada di sisi server.
+   Bahasa ini digunakan untuk mengelola konten dinamis, database, session tracking, dan bahkan keseluruhan situs e-commerce.
+   Sebetulnya, kamu bisa membuat web dengan memakai HTML saja. Namun, hasilnya terasa kurang menarik lantaran HTML membuat tampilan web statis dengan konten dan
+   halaman yang bersifat permanen. Ketika suatu web dibangun dengan PHP, tampilan web justru lebih dinamis. Kamu bisa mengatur tampilan konten sesuai situasi atau
+   momen tertentu tanpa mengubah dasar pemrograman web tersebut. Web yang dinamis ini juga berfungsi sebagai penyimpanan data dalam database, membuat tampilan halaman
+   web berubah sesuai input dari pengguna, menampilkan gambar, hingga pemakaian form. Dalam pembuatan web, kode PHP umumnya disisipkan dalam dokumen HTML yang sudah
+   tersedia. Itulah mengapa PHP dikenal sebagai scripting language atau bahasa pemrograman script. Penyisipan sebuah variabel PHP bisa menghasilkan tampilan berbeda
+   pada web, tanpa perlu menambah banyak kode baris.
+E. Keuntungan Belajar PHP
+   Keuntungan belajar PHP adalah kamu bisa mengandalkan web, kursus online, maupun tutorial YouTube.
+   Artinya, semua materi seputar PHP tersedia secara gratis maupun berbayar. Tinggal bagaimana kamu mengumpulkan niat untuk mau mempelajarinya semua satu per satu
+   dari nol. Selain itu, karena bersifat open source, kamu bisa menjalankan PHP dengan mudah di semua sistem operasi. Mulai dari Windows, Macintosh, hingga Linux.
+   Jadi, apa pun sistem operasi yang kamu miliki, kamu bisa segera mengulik PHP tanpa perlu repot berganti sistem.
+   Karena bahasa pemrograman ini memakai sistem server-side, kamu tinggal memasukkan script atau program itu ke dalam server. Dengan kata lain, PHP cukup mudah
+   di-install dalam server web. Misalnya, salah satu server yang paling dikenal adalah Apache. Keuntungan tersebut juga diikuti oleh konfigurasi yang mudah, sehingga
+   mempelajari, memahami, dan menggunakan PHP itu terbilang cepat dan ringkas. Bagi seorang web developer, menguasai bahasa pemrograman ini memudahkan dalam
+   pengembangan aplikasi berbasis web yang kompleks dan andal. Tentu hal tersebut bergantung juga pada spesifikasi bisnis tempat web itu bernaung, pemakaian hosting,
+   kebutuhan aplikasi, pengalaman developer, serta pengembangan timeframe.
+
+Sumber : https://glints.com/id/lowongan/apa-itu-php-adalah/#.Y_8q1XZBy00

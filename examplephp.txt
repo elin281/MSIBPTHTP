@@ -1,0 +1,25 @@
+Contoh Program Sederhana dengan PHP
+
+Kita membuat Echo, echo fungsinya untuk menampilkan teks ke website.
+Untuk memulai koding php harus diawali dengan <?php dan diakhiri ?> , 
+dan untuk pernyataan php diakhiri dengan ;
+
+   <html>
+   <head>
+	    <title>My First PHP Program</title>
+   </head>
+   <body>
+      <h1>Belajar PHP Dasar</h1>
+      <?php
+         echo "Belajar php di gilacoding.com";
+      ?>
+   </body>
+   </html>
+   
+Lalu save di dalam folder xampp -> htdocs -> buat folder baru dengan nama latihan -> masuk ke folder latihan. Lalu save dengan nama latihan1.php.
+
+Dan untuk menjalankan latihan1.php, sobat buka web browser dan ketikkan di url localhost/latihan(nama folder nya)/latihan1.php (nama file php nya).
+
+Jika gagal, pastikan Apache di xampp nya sudah di start.
+
+Sumber : https://gilacoding.com/read/belajar-bahasa-pemrograman-php-dasar
