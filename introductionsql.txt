@@ -1,4 +1,4 @@
-PENGENALAN BAHASA SQL
+PENGENALAN BAHASA SQL (Standard Query Language)
 
 A. Pengertian SQL
    SQL atau Standard Query Language adalah bahasa pemrograman yang digunakan dalam mengakses, mengubah, dan memanipulasi data yang berbasis relasional.
