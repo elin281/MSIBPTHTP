@@ -1,0 +1,54 @@
+Jenis-jenis Perintah SQL Beserta Contoh Penulisannya
+
+1. DDL (Data Definition Language)
+   - Perintah Create
+     Perintah untuk membuat tabel baru di dalam sebuah database adalah create. Tak cuma untuk tabel baru, tapi juga database maupun kolom baru.
+     Contoh :
+     CREATE DATABASE nama_database;
+   - Perintah Alter
+     Biasa digunakan ketika seseorang ingin mengubah struktur tabel yang sebelumnya sudah ada. Bisa jadi dalam hal ini adalah seperti nama tabel,
+     penambahan kolom, mengubah, maupun menghapus kolom serta menambahkan atribut lainnya.
+     Contoh :
+     ALTER TABLE nama_tabel ADD nama_kolom tipedata;
+   - Perintah Rename
+     Dapat kamu gunakan untuk mengubah sebuah nama di sebuah tabel ataupun kolom yang ada.
+     Contoh :
+     RENAME TABLE nama_tabel_lama TO nama_tabel_baru;
+   - Perintah Drop
+     Bisa kamu gunakan dalam menghapus baik itu berupa database, table maupun kolom hingga index.
+     Contoh :
+     DROP database MHS3KA21;
+   - Perintah Show
+     Perintah DDL ini digunakan untuk menampilkan sebuah tabel yang ada.
+     Contoh :
+     SHOW tables;
+
+2. DML (Data Manipulation Language)
+   - Perintah Insert
+     Bisa menggunakan perintah ini untuk memasukkan sebuah record baru di dalam sebuah tabel database.
+     Contoh :
+     INSERT INTO tbl_mhs VALUES (NPM VARCHAR2(8) PRIMARY KEY, NAMA VARCHAR2(35) NOT NULL);
+   - Perintah Select
+     Select digunakan untuk memanipulasi data dengan tujuan menampilkan maupun mengambil sebuah data pada tabel.
+     Data yang diambil pun tidak hanya terbatas pada satu jenis saja melainkan lebih dari satu tabel dengan memakai relasi.
+     Contoh :
+     SELECT * FROM tbl_mhs;
+   - Perintah Update
+     Ini dapat kamu gunakan ketika ingin melakukan pembaruan data di sebuah tabel. Contohnya saja jika ada kesalahan ketika
+     memasukkan sebuah record. Kamu tidak perlu menghapusnya dan bisa diperbaiki menggunakan perintah ini.
+     Contoh :
+     UPDATE nama_tabel set nama_field1 = value, nama_field2 = value where ...;
+   - Perintah Delete
+     Perintah DML ini dapat digunakan ketika kamu ingin menghapus sebuah record yang ada dalam sebuah tabel.
+     Contoh :
+     DELETE from nama_tabel where ...;
+
+3. DCL (Data Control Language)
+   - Perintah Grant
+     Perintah GRANT memungkinkan pemberikan hak akses kepada pengguna.
+     Contoh :
+     CREATE USER 'nama_user'@'localhost' IDENTIFIED BY 'password';
+   - Perintah Revoke
+     Perintah REVOKE digunakan untuk mencabut kembali hak akses yang diberikan melalui perintah GRANT.
+     Contoh :
+     REVOKE tipe_izin ON nama_database.nama_table FROM 'username'@'localhost';

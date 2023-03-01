@@ -1,0 +1,50 @@
+PENGENALAN BAHASA SQL (Standard Query Language)
+
+A. Pengertian SQL
+   SQL atau Standard Query Language adalah bahasa pemrograman yang digunakan dalam mengakses, mengubah, dan memanipulasi data yang berbasis relasional.
+   Tentu saja bahasa komputer dalam data basis relasional ini berdasarkan standar yang dikeluarkan oleh American National Standard Institute (ANSI).
+   Standardisasi SQL sudah ada sejak tahun 1986 dan memang diinisiasi oleh ANSI.
+   Hingga saat ini banyak server dalam sebuah database maupun software mampu mengartikan bahasa SQL.
+   SQL merupakan bahan pembicaraan dan sebuah materi yang sangat penting bagi kamu yang bergelut dalam dunia IT
+   maupun hal-hal yang bersinggungan dengan database relasional.
+B. Sejarah SQL
+   Bila kita berbicara mengenai sejarah munculnya dan pengertian SQL dapat mengacu pada artikel dari Jhonny Oracle yang merupakan salah seorang peneliti di IBM.
+   Artikel tersebut membahas mengenai ide pembuatan sebuah basis data relasional yang muncul di tahun 1970, tepatnya pada bulan Juni.
+   Pada artikel tersebut juga dibahas mengenai kemungkinan di masa mendatang untuk menciptakan sebuah bahasa data yang standar.
+   Oleh karena itulah kemudian muncul istilah SEQUEL yang mengacu pada singkatan dari Structured English Query Language.
+   Selang beberapa waktu, IBM lantas mencanangkan proyek basis data relasional SEQUEL dan karena namanya cukup sulit dieja maka disingkat menjadi SQL.
+   Setelah proses standardisasi selesari tahun 1986, lalu SQL mengalami perbaikan tahun 1989.
+   Tahun 1992 muncul versi SQL92 dan di tahun 1999 dengan berbagai pembaharuan muncullah SQL99. Namun, dalam dunia IT SQL yang sering digunakan mereferensikan pada SQL92.
+   Meski begitu, sampai sekarang pun sebenarnya tidak ada sebuah server berbasis data yang menggunakan maupun mendukung SQL99.
+   Ini lebih tergantung pada dialek masing-masing server yang digunakan.
+C. Fungsi SQL
+   Keberadaan SQL dalam mengelola sebuah database memberikan fungsi tersendiri.
+   Bagi seorang admin, adanya SQL dapat memungkinkan kamu untuk mengakses maupun mengubah database.
+   Bisa menjalankan sebuah query maupun mengambil data yang dibutuhkan. Termasuk pula memperbarui atau menyisipkan data dalam database.
+   SQL juga bisa digunakan untuk menghapus sebuah data pada database. Fungsi lainnya SQL adalah untuk membuat sebuah prosedur baru dan ini akan tersimpan
+   dalam sebuah database. Selain itu juga bisa mengatur hak akses dalam tabel, prosedur, maupun hal-hal penting lainnya.
+D. Jenis Perintah SQL
+   Setidaknya ada tiga jenis perintah dasar dalam SQL yang penjabarannya akan diulas dalam poin-poin berikut ini.
+   1. Data Definition Language (DDL)
+      Data Definition Languange (DDL) adalah perintah yang digunakan untuk mendefinisikan data seperti membuat tabel database baru, mengubah dataset
+      dan menghapus data. Kemudian, perintah dasar DDL masih dibedakan lagi ke dalam setidaknya lima jenis perintah yakni:
+      Perintah Create, Alter, Rename, Drop dan Show.
+   2. Data Manipulation Language (DML)
+      Pada database SQL, perintah yang digunakan untuk memanipulasi data adalah Data Manipulation Language atau DML.
+      Perintah dalam DML juga terbagi ke dalam empat jenis. Beberapa di antaranya adalah insert, select, update, dan delete.
+   3. Data Control Language (DCL)
+      Perintah dasar berikutnya adalah Data Control Language atau DCL. Perintah SQL ini digunakan khususnya untuk mengatur hak apa saja yang dimiliki oleh pengguna.
+      Baik itu hak terhadap sebuah database ataupun pada tabel maupun field yang ada.
+      Melalui perintah ini, seorang admin database bisa menjaga kerahasiaan sebuah database. Terutama untuk yang penting.
+      DCL berdasarkan perintah dasarnya terbagi dalam dua perintah utama yakni:
+      Perintah Grant dan Revoke.
+E. Profesi dengan Skill SQL
+   Karena SQL sangat berkaitan erat dengan pengelolaan data, maka sebagian besar profesi dalam bidang data memerlukan keterampilan untuk menggunakan sistem query ini.
+   Di bawah ini adalah beberapa pekerjaan yang membutuhkan keterampilan SQL:
+   1. Data Scientist
+   2. Data Engineer
+   3. Business Analyst
+   4. Database Administrator
+   5. Quality Assurance Tester
+
+Sumber : https://www.dewaweb.com/blog/sql-pengertian-fungsi-beserta-perintah-dasarnya/#1_Data_Definition_Language_DDL
