@@ -1,3 +1,5 @@
+PENGENALAN BAHASA PEMROGRAMAN JAVASCRIPT
+
 A. Apa Itu JavaScript?
    Tahukah kamu bahwa JavaScript adalah bahasa pemrograman yang digunakan dalam pengembangan website agar lebih dinamis dan interaktif.
    Kalau sebelumnya kamu hanya mengenal HTML dan CSS, nah sekarang kamu jadi tahu bahwa JavaScript dapat meningkatkan fungsionalitas pada halaman web.
@@ -33,3 +35,9 @@ E. Keunggulan JavaScript
    3. Sangat Powerfull
    4. Banyak perusahaan yang mengimplementasikan JS
    5. Dukungan Komunitas
+F. Tools yang Dipakai untuk Belajar JavaScript
+   1. Web Browser (Google Chrome, Firefox, Opera, dll)
+   2. Teks Editor (rekomendasi: VS Code)
+   3. Node js
+
+Sumber : https://www.dicoding.com/blog/apa-itu-javascript-fungsi-dan-contohnya/
