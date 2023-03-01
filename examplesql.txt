@@ -21,7 +21,7 @@ Jenis-jenis Perintah SQL Beserta Contoh Penulisannya
    - Perintah Show
      Perintah DDL ini digunakan untuk menampilkan sebuah tabel yang ada.
      Contoh :
-     SHOW databases;
+     SHOW tables;
 
 2. DML (Data Manipulation Language)
    - Perintah Insert
