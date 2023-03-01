@@ -1,0 +1,18 @@
+Contoh Sintaks CSS Sederhana
+
+1. Tag Body
+   body {
+      margin: 0;
+      background-color: coral;
+   }
+2. Tag Heading
+   h1 {
+      color: #FFFFFF;
+      text-align: center;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+3. Tag Paragraf
+   p {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 18px;
+   }
