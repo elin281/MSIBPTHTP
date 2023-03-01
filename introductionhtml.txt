@@ -1,4 +1,4 @@
-A. Apa itu HTML? 
+A. Pengertian HTML 
    HTML adalah bahasa markup untuk membuat halaman web. Kepanjangan dari HTML adalah Hypertext Markup Language.
    Artinya, HTML menggunakan simbol tertentu (tag) yang nantinya akan diterjemahkan oleh browser ke halaman web.
    Dengan menggunakan tag-tag HTML, Anda dapat membangun struktur halaman, menambahkan konten seperti teks dan gambar,
@@ -30,12 +30,12 @@ D. Komponen HTML
       yaitu tag pembuka dan tag penutup.  Pada tag penutup ditambahkan garis miring (/) di depan nama tag. Tag HTML sendiri awalnya hanya berjumlah 18.
       Hingga saat ini sudah ada lebih dari 250 tag. Banyak juga, ya. Namun, Anda tak perlu menghafal semua tag yang ada.
       Anda hanya perlu mengingat beberapa contoh HTML untuk pemula berikut ini:
-      - <html>,  untuk memulai membuat halaman HTML yang mencakup semua konten dan elemen.
-      - <head>,  untuk membuat halaman HTML yang mencakup tampilan deskripsi di hasil pencarian Google, style konten (CSS), dan lainnya.
-      - <title>, untuk membuat judul website.
-      - <body>, untuk membuat isi website.
-      - <h1> <h2> sampai <h6> , untuk mengatur heading konten.
-      - <p> , untuk membuat paragraf.
+      - <html>                 => untuk memulai membuat halaman HTML yang mencakup semua konten dan elemen.
+      - <head>                 => untuk membuat halaman HTML yang mencakup tampilan deskripsi di hasil pencarian Google, style konten (CSS), dan lainnya.
+      - <title>                => untuk membuat judul website.
+      - <body>                 => untuk membuat isi website.
+      - <h1> <h2> sampai <h6>  => untuk mengatur heading konten.
+      - <p>                    => untuk membuat paragraf.
    2. Elemen
       Elemen merupakan komponen HTML yang berupa keseluruhan kode dari tag pembuka hingga tag penutup. Elemen terdiri dari teks dan simbol yang berupa tag pembuka,
       isi tag atau konten, dan tag penutup. Contohnya: <bold>Belajar HTML</bold>
@@ -44,7 +44,7 @@ D. Komponen HTML
       <html>
       <body>
          <h2>Judul Heading</h2>
-         <p>Paragraf pertama artikel.</p>
+         <p>Paragraf pertama.</p>
       </body>
       </html>
       Jika diperhatikan elemen HTML tersebut, dari tag pembuka <html> lalu tag <body> yang berisi elemen tag heading dan elemen tag paragraf.
