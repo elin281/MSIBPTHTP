@@ -1,0 +1,51 @@
+A. Apa Itu CSS? Pengertian, Fungsi, dan Cara Kerjanya
+   CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML.
+   CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs. CSS dibuat dan dikembangkan oleh W3C (World Wide Web Consortium) pada
+   tahun 1996 untuk alasan yang sederhana. Dulu HTML tidak dilengkapi dengan tags yang berfungsi untuk memformat halaman. Anda hanya perlu menulis markup untuk situs.
+   Tags, seperti <font>, diperkenalkan di HTML versi 3.2, dan ketika itu menyebabkan banyak masalah bagi developer. Karena website memiliki berbagai font,
+   warna background, dan style, maka untuk menulis kembali (rewrite) kode memerlukan proses yang sangat panjang dan sulit. Oleh sebab itu,
+   W3C membuat CSS untuk menyelesaikan masalah ini. HTML dan CSS memiliki keterikatan yang erat. Karena HTML adalah bahasa markup (fondasi situs) dan
+   CSS memperbaiki style (untuk semua aspek yang terkait dengan tampilan website), maka kedua bahasa pemrograman ini harus berjalan beriringan.
+   Tak hanya penting di sisi teknis, CSS juga berpengaruh pada tampilan sebuah website.
+B. Kelebihan CSS
+   Mudah bagi Anda untuk mengetahui mana website yang menggunakan CSS dan mana yang tidak. Anda pasti pernah membuka website, tapi sesaat kemudian gagal loading dan
+   malah menampilkan background putih yang didominasi teks hitam dan biru. Situasi ini menggambarkan bahwa CSS pada situs tersebut tidak dapat di-load dengan benar
+   atau situs sama sekali tidak memiliki CSS. Umumnya, situs seperti ini hanya menerapkan HTML. Sebelum menggunakan CSS, semua stylizing harus disertakan ke dalam
+   markup HTML. Itu berati Anda harus mendeskripsikan semua background, warna font, alignment, dan lain-lain secara terpisah. Dengan CSS, Anda dapat mengatur tampilan
+   semua aspek pada file yang berbeda, lalu menentukan style, kemudian mengintegrasikan file CSS di atas markup HTML. Alhasil, markup HTML bisa lebih mudah di-maintain.
+   Singkatnya, dengan CSS, Anda tidak perlu mendeskripsikan tampilan dari masing-masing elemen secara berulang-ulang. Anda tidak membuang-buang waktu,
+   kode yang digunakan pun lebih singkat, dan error dapat diminimalisir.Karena opsi kustomisasi yang ada hampir tak terbatas,
+   CSS memungkinkan Anda untuk menerapkan berbagai macam style pada satu halaman HTML.
+C. Cara Kerja CSS
+   CSS menggunakan bahasa Inggris sederhana berbasis syntax yang dilengkapi dengan sekumpulan rule yang mengaturnya. Seperti yang telah kami sebutkan sebelumnya,
+   HTML tidak dibuat untuk menerapkan elemen style, hanya markup halaman saja. HTML dirancang semata-mata untuk mendeskripsikan konten.
+   Sebagai contoh: <p>This is a paragraph.</p>. Satu yang menjadi pertanyaannya sekarang, bagaimana caranya style paragraf? Struktur syntax CSS cukup sederhana.
+   Struktur ini memiliki selector dan declaration block. Pilih elemen yang diinginkan, kemudian deklarasi (declare) yang harus Anda lakukan terhadap elemen tersebut.
+   Sangat mudah, kan? Ada berbagai rule yang harus diingat. Meskipun demikian, rule struktur cukup simpel dan sederhana. Selector mengarah ke elemen HTML yang ingin
+   Anda ubah tampilannya. Declaration block memuat satu atau lebih banyak deklarasi (declaration) yang dipisahkan dengan tanda titik koma.
+   Setiap deklarasi menyertakan nama dan value dari properti CSS, yang dipisahkan dengan tanda koma. Umumnya deklarasi CSS diakhiri dengan tanda titik koma,
+   sedangkan declaration block dikelilingi oleh tanda kurung kurawal. Mari kita lihat contoh di bawah ini:
+   Semua elemen <p> ditandai dengan warna biru dan hurufnya ditebalkan (bold).
+   <style>
+      p {
+         color: blue;
+         text-weight: bold;
+      }
+   <style>
+   Contoh lain, semua elemen <p> diposisikan di tengah (center-aligned), dengan lebar 16x, dan berwarna pink.
+   <style>
+      p {
+         text-align: center;
+         font-size: 16px;
+         color: pink;
+      }
+   </style>
+D. CSS Style Internal, External, dan Inline
+   CSS Style Internal diload setiap kali website di-refresh, dan kekurangannya adalah waktu loading semakin lama. CSS style yang sama pun tidak dapat digunakan di
+   halaman lain karena sudah aktif terlebih dulu di suatu halaman. Namun di balik kekurangannya, CSS Style Internal memiliki beberapa kelebihan. Salah satunya adalah
+   kemudahan dalam sharing template untuk pratinjau (preview) karena CSS hanya ada di satu halaman.
+   External merupakan CSS style yang paling mudah dan tidak menyulitkan. Semuanya dilakukan secara eksternal pada file .css. Styling dilakukan di file terpisah,
+   lalu terapkan CSS ke halaman mana pun yang Anda inginkan. Sayangnya, CSS Style External juga memperlama waktu loading.
+   CSS Style Inline menggunakan elemen spesifik yang memuat tag <style>. Karena setiap komponen harus di-stylize, maka Inline bukan metode yang tepat jika Anda ingin
+   menggunakan CSS dengan cepat. Namun di sisi lain, hal tersebut mendatangkan keuntungan. Misalnya, jika Anda ingin mengubah satu elemen, atau menampilkan pratinjau
+   dengan cepat, atau Anda tidak punya akses ke file CSS.
