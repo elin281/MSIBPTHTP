@@ -1,3 +1,5 @@
+PENGENALAN BAHASA PEMROGRAMAN CSS
+
 A. Pengertian, Fungsi, dan Cara Kerjanya CSS
    CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML.
    CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs. CSS dibuat dan dikembangkan oleh W3C (World Wide Web Consortium) pada
@@ -50,3 +52,5 @@ D. CSS Style Internal, External, dan Inline
    CSS Style Inline menggunakan elemen spesifik yang memuat tag <style>. Karena setiap komponen harus di-stylize, maka Inline bukan metode yang tepat jika Anda ingin
    menggunakan CSS dengan cepat. Namun di sisi lain, hal tersebut mendatangkan keuntungan. Misalnya, jika Anda ingin mengubah satu elemen, atau menampilkan pratinjau
    dengan cepat, atau Anda tidak punya akses ke file CSS.
+
+Sumber : https://www.hostinger.co.id/tutorial/apa-itu-css
