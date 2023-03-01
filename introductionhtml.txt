@@ -1,3 +1,5 @@
+PENGENALAN HTML
+
 A. Pengertian HTML 
    HTML adalah bahasa markup untuk membuat halaman web. Kepanjangan dari HTML adalah Hypertext Markup Language.
    Artinya, HTML menggunakan simbol tertentu (tag) yang nantinya akan diterjemahkan oleh browser ke halaman web.
@@ -64,3 +66,5 @@ E. Cara Kerja HTML
    Kemudian, agar file HTML dapat diakses oleh banyak orang lewat internet, Anda perlu mengonlinekannya. Untuk melakukan ini, Anda perlu menyewa layanan hosting dan
    mengupload file website Anda di sana. Jika sudah upload file HTML, selanjutnya browser akan membaca  dan me-render file HTML menjadi tampilan halaman website.
    Sehingga ketika orang mengakses website lewat internet, mereka dapat mudah membaca informasi yang ditampilkan.
+
+Sumber : https://www.niagahoster.co.id/blog/html-adalah/
